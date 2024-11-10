@@ -1,0 +1,9 @@
+[28-Jul-2021 09:06:19 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/demoshopinitask/public_html/sim/listing_sims_request.php on line 149
+[29-Jul-2021 10:30:56 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/demoshopinitask/public_html/sim/listing_sims_request.php on line 149
+
+thrown in /home/demoshopinitask/public_html/sim/sims_request.php on line 121
+[03-Aug-2021 10:25:06 UTC] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'sfgtys_sim'@'localhost' (using password: YES) in /home/sfgtys/public_html/sim/config/database.php on line 20
+[18-Aug-2021 14:50:26 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/sfgtys/public_html/sim/listing_sims_request.php on line 166
+[20-Aug-2021 05:56:13 UTC] PHP Warning:  session_cache_limiter(): Cannot change cache limiter when session is active in /home/sfgtys/public_html/sim/admin_elements/admin_header.php on line 5
+[20-Aug-2021 05:56:13 UTC] PHP Fatal error:  Cannot redeclare generate_multilevel_farticle_categories() (previously declared in /home/sfgtys/public_html/sim/config/globals.php:1824) in /home/sfgtys/public_html/sim/config/globals.php on line 1824
+[21-Aug-2021 05:19:42 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/sfgtys/public_html/sim/report_sim_city.php on line 301
