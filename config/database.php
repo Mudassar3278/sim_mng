@@ -1,9 +1,9 @@
 <?php
 	if (isRemote()){
 		$GLOBALS['DB']['HOSTNAME'] = 'localhost';
-		$GLOBALS['DB']['DATABASE'] = 'sfgtys_sim';
-		$GLOBALS['DB']['USERNAME'] = 'sfgtys_sim_root';
-		$GLOBALS['DB']['PASSWORD'] = '10stor78QW@';
+		$GLOBALS['DB']['DATABASE'] = 'sim';
+		$GLOBALS['DB']['USERNAME'] = 'sim';
+		$GLOBALS['DB']['PASSWORD'] = 'sim';
 
 	} else {
 		$GLOBALS['DB']['HOSTNAME'] = 'localhost';
